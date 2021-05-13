@@ -50,10 +50,10 @@ class HomePage extends StatelessWidget {
             },
           ),
         ),
-        floatingActionButton: FloatingActionButton(
+        /*    floatingActionButton: FloatingActionButton(
           onPressed: () {},
           child: Icon(Icons.favorite),
-        ),
+        ), */
       ),
     );
   }
